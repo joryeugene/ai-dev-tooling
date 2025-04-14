@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Amplified Development</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/white.css">
+    <style>
+        .reveal h1 {
+            color: #0366d6;
+        }
+
+        .reveal h2 {
+            color: #0366d6;
+        }
+
+        .reveal h3 {
+            color: #2188ff;
+        }
+
+        .reveal pre {
+            box-shadow: none;
+        }
+
+        .reveal blockquote {
+            background-color: #f6f8fa;
+            border-left: 4px solid #0366d6;
+            padding: 0.5em 1em;
+            width: 90%;
+        }
+
+        .reveal table {
+            font-size: 0.8em;
+            margin: 0 auto;
+        }
+
+        .reveal .slide-number {
+            font-size: 14px;
+        }
+
+        .reveal .footer {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="ai-dev-tooling-and-workflows.md" data-separator="^\n---\n"
+                data-separator-vertical="^\n--\n" data-separator-notes="^Note:" data-charset="utf-8">
+            </section>
+        </div>
+        <div class="footer">© 2025 Jory Pestorious</div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/markdown/markdown.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/highlight/highlight.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/notes/notes.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/zoom/zoom.js"></script>
+
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: true,
+            transition: 'slide',
+            plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom]
+        });
+    </script>
+</body>
+
+</html>
