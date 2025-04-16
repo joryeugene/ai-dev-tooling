@@ -4,7 +4,7 @@ This repository contains a presentation on AI-Amplified Development: Tools and W
 
 ## Files in this Repository
 
-- `ai-dev-tooling-and-workflows.md`: The main presentation content in Markdown format
+- [`ai-dev-tooling-and-workflows.md`](ai-dev-tooling-and-workflows.md): The main presentation content in Markdown format
 - `index.html`: The HTML file that loads the presentation using Reveal.js
 
 ## Running Locally

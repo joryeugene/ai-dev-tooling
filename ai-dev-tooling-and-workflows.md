@@ -1,4 +1,3 @@
-
 #AIDevTooling
 ## Stop Coding Like It's 2024:
 ### An AI-Amplified Dev Playbook
@@ -97,7 +96,7 @@ In the coming years, tools, workflows, and even integrated development environme
 - **Craft Your Prompts** 🎯
   - *Start broad, iterate, and refine*
   - *Maintain a personal prompt library*
-  - *Learn the art of conversation with AI and [**study**](https://www.kaggle.com/whitepaper-prompt-engineering)
+  - *Learn the [**art of conversation with AI**](https://www.kaggle.com/whitepaper-prompt-engineering)*
 </td>
 <td width="50%">
 
