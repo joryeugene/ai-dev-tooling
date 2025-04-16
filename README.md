@@ -2,6 +2,8 @@
 
 This repository contains a presentation on AI-Amplified Development: Tools and Workflows for Modern Engineers.
 
+[View the presentation online](http://jorypestorious.com/blog/ai-dev-tooling-presentation/)
+
 ## Files in this Repository
 
 - [`ai-dev-tooling-and-workflows.md`](ai-dev-tooling-and-workflows.md): The main presentation content in Markdown format
@@ -21,4 +23,4 @@ npx serve
 
 ## Credits
 
-Created by Jory Pestorious | April 15, 2025
+Created by Jory Pestorious | April 16, 2025
